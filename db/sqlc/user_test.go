@@ -2,7 +2,7 @@ package db
 
 import (
 	"context"
-	"github.com/cherdantsevilya/BackendBank/util"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

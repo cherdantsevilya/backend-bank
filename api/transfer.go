@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	db "github.com/cherdantsevilya/BackendBank/db/sqlc"
-	"github.com/cherdantsevilya/BackendBank/token"
+	db "github.com/cherdantsevilya/backend-bank/db/sqlc"
+	"github.com/cherdantsevilya/backend-bank/token"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

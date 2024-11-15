@@ -1,7 +1,7 @@
 package token
 
 import (
-	"github.com/cherdantsevilya/BackendBank/util"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/require"
 	"testing"

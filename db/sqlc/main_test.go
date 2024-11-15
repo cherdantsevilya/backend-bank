@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	"github.com/cherdantsevilya/BackendBank/util"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"log"
 	"os"
 	"testing"

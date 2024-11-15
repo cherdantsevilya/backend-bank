@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/cherdantsevilya/BackendBank/util"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"github.com/go-playground/validator/v10"
 )
 

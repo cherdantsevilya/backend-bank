@@ -2,11 +2,11 @@ package main
 
 import (
 	"database/sql"
-	"github.com/cherdantsevilya/BackendBank/util"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"log"
 
-	"github.com/cherdantsevilya/BackendBank/api"
-	db "github.com/cherdantsevilya/BackendBank/db/sqlc"
+	"github.com/cherdantsevilya/backend-bank/api"
+	db "github.com/cherdantsevilya/backend-bank/db/sqlc"
 	_ "github.com/lib/pq"
 )
 

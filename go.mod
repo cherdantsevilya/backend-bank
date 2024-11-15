@@ -1,4 +1,4 @@
-module github.com/cherdantsevilya/BackendBank
+module github.com/cherdantsevilya/backend-bank
 
 go 1.23.2
 

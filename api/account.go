@@ -3,8 +3,8 @@ package api
 import (
 	"database/sql"
 	"errors"
-	db "github.com/cherdantsevilya/BackendBank/db/sqlc"
-	"github.com/cherdantsevilya/BackendBank/token"
+	db "github.com/cherdantsevilya/backend-bank/db/sqlc"
+	"github.com/cherdantsevilya/backend-bank/token"
 	"github.com/gin-gonic/gin"
 	"github.com/lib/pq"
 	"net/http"

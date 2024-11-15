@@ -3,7 +3,7 @@ package api
 import (
 	"errors"
 	"fmt"
-	"github.com/cherdantsevilya/BackendBank/token"
+	"github.com/cherdantsevilya/backend-bank/token"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"strings"

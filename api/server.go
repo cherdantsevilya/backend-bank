@@ -2,9 +2,9 @@ package api
 
 import (
 	"fmt"
-	db "github.com/cherdantsevilya/BackendBank/db/sqlc"
-	"github.com/cherdantsevilya/BackendBank/token"
-	"github.com/cherdantsevilya/BackendBank/util"
+	db "github.com/cherdantsevilya/backend-bank/db/sqlc"
+	"github.com/cherdantsevilya/backend-bank/token"
+	"github.com/cherdantsevilya/backend-bank/util"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/go-playground/validator/v10"

@@ -2,7 +2,7 @@ package api
 
 import (
 	"fmt"
-	"github.com/cherdantsevilya/BackendBank/token"
+	"github.com/cherdantsevilya/backend-bank/token"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/require"
 	"net/http"
